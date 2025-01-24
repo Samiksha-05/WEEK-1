@@ -14,6 +14,7 @@ Objective:
 Key Features:
 
 - Dataset: A curated dataset containing labeled images of different types of plastic waste.
+  
   You can access the data set here : [Link for the Required Data Set](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 - Model Architecture: A CNN model designed for accurate image classification.
 - Goal: Enhance efficiency in waste sorting and promote effective recycling processes.
