@@ -1,5 +1,3 @@
-# WEEK-1
-
 # Plastic Waste Classification using CNN:
 
 Project Description :
